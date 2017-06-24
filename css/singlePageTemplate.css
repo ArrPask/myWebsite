@@ -45,6 +45,14 @@ header nav ul {
 	list-style: none;
 	float: right;
 }
+#menulink {
+	margin: 0;
+	text-align: center;
+	background-color: transparent;
+}
+
+#navlinks {
+}
 nav ul li {
 	float: left;
 	color: #FFFFFF;
